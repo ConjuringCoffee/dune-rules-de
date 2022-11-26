@@ -1,6 +1,11 @@
-# Karama-Karte
+---
+layout: page
+title: Karama-Karte
+permalink: /karama/
+---
 
 ## Kurzfassung
+Eine Karama-Karte kann zu einem der folgenden Zwecken eingesetzt werden:
 - Transport zu Gildenpreisen
 - Karten kaufen
 - Bestimmte Fraktionsfähigkeiten verhindern
