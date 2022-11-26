@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Karama-Karte
-permalink: /karama/
+#permalink: /karama/
 ---
 
 ## Kurzfassung
