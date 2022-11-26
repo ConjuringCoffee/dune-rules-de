@@ -40,21 +40,21 @@ Die folgenden Kapitel beschreiben, welche fraktionsspezifischen Kräfte durch ei
 - Verhindern, dass sie CHOAM Wohltätigkeit erhalten, während sie 2 oder mehr Spice haben.
 - (Hat keinen Einfluss auf ihre Siegesvorhersage.)
 
-### Emperor:
+### Emperor
 - Verhindern, dass sie Spice beim Kauf einer Karte bekommen.
 - Verhindern, dass sie Spice einem Alliierten im aktuellen Zug geben.
   (Verhindert aber nicht, dass sie für Karten oder Transporte für den Alliierten zahlen.)
 - Verhindern, dass ein Alliierter drei extra Einheiten wiederbeleben kann.
 - Verhindern, dass Sardaukar mehr in einem Kampf wert sind – aber nur bevor die Kampfpläne offengelegt wurden. Sie sind dann so viel wie reguläre Einheiten wert.
- 
-### Fremen:
+
+### Fremen
 - Verhindern, dass sie sich zwei statt nur einem Gebiet bewegen dürfen.
 - Verhindern, dass sie den Wurm reiten. Stattdessen werden sie vom Wurm gefressen.
 - Verhindern, dass sie die nächste Karte vom Sturmdeck anschauen. Es wird aber nicht verhindert, dass sich der Sturm durch diese Karte bewegt.
 - Verhindern, dass Fedaykin mehr in einem Kampf wert sind – aber nur bevor die Kampfpläne offengelegt wurden. Sie sind dann so viel wie reguläre Einheiten wert.
 - (Hat keine Auswirkung auf die Sonderregeln zum Transport oder zur Siegbedingung.)
 
-### Raumgilde: 
+### Raumgilde
 - Verhindern, dass sie die Zahlung eines Spielers für einen Transport erhalten.
 - Verhindern, dass sie nur den halben Preis für einen Transport zahlen müssen. Sie zahlen dann den regulären Preis.
 - Verhindern, dass sie den Gildenpreis für den Transport für einen Alliierten geltend machen.
@@ -62,7 +62,7 @@ Die folgenden Kapitel beschreiben, welche fraktionsspezifischen Kräfte durch ei
 - Verhindern, dass sie die Reihenfolge ihres Zugs in Transport & Bewegung ändern.
 - (Hat keine Auswirkung auf die Sonderregeln zur Siegbedingung.)
 
-### Harkonnen:
+### Harkonnen
 - Verhindern, dass sie einen Verräter im Kampf eines Alliierten offenbaren.
 - Verhindern, dass sie eine zusätzliche Karte bei einem Gebot bekommen.
 - Verhindern, dass sie einen Anführer nach einem Kampf gefangen nehmen.
