@@ -26,7 +26,7 @@ Wenn eine Karama-Karte dazu eingesetzt wird, eine Fraktionsfähigkeit zu stoppen
 Die folgenden Kapitel beschreiben, welche fraktionsspezifischen Kräfte durch eine Karama-Karte gestoppt werden können.
 
 ### Atreides
-- Verhindern, dass sie eine der zur Auktion stehenden Karten anschauen.
+- Verhindern, dass sie die nächste der zur Auktion stehende Karte anschauen.
 - Verhindern, dass sie eine Spice-Karte anschauen.
 - Verhindern, dass sie einen Teil des Kampfplans erfahren.
 - Verhindern, dass Kwisatz Haderach in einem Kampf eingesetzt wird – aber nur bevor die Kampfpläne offengelegt wurden.
@@ -34,9 +34,9 @@ Die folgenden Kapitel beschreiben, welche fraktionsspezifischen Kräfte durch ei
 
 ### Bene Gesserit
 - Verhindern, dass sie die „Voice“ in einem Kampf einsetzen.
-- Verhindern, dass sie einen Spiritual Advisor transportieren.
+- Verhindern, dass sie einen Berater gratis transportieren.
 - Verhindern, dass sie eine wertlose Karte als Karama-Karte einsetzen. Die wertlose Karte wird abgelegt.
-- Verhindern, dass sie ein Token von oder zum Spiritual Advisor drehen.
+- Verhindern, dass sie ein Token von oder zum Berater drehen.
 - Verhindern, dass sie CHOAM Wohltätigkeit erhalten, während sie 2 oder mehr Spice haben.
 - (Hat keinen Einfluss auf ihre Siegesvorhersage.)
 
