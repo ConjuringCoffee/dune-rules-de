@@ -87,4 +87,4 @@ Ein Mal pro Spiel darf eine Fraktion eine Karama-Karte für Advanced-Kräfte ein
  
  ****************
 
- [^1]: Bedienungsanleitung der Ixians & Tleilalxu Erweiterung, S. 12
+ [^1]: Bedienungsanleitung der Ixians & Tleilalxu Erweiterung (2020), S. 12
