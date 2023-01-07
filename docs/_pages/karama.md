@@ -54,7 +54,7 @@ Die folgenden Kapitel beschreiben, welche fraktionsspezifischen Kräfte durch ei
 - Verhindern, dass Fedaykin mehr in einem Kampf wert sind – aber nur bevor die Kampfpläne offengelegt wurden. Sie sind dann so viel wie reguläre Einheiten wert.
 - Verhindern, dass sie zusätzliche Würme in dieser Runde platzieren.[^1]
 - Verhindern, dass sie weniger Streitkräfte im Sturm verlieren.[^1]
-- Verhindern, dass sie kein Spice zahlen müssen, um ihre Streitkräfte bei voller Kraft einsetzen zu können.[^1]
+- Verhindern, dass sie kein Spice zahlen müssen, um ihre Streitkräfte bei voller Kraft einsetzen zu können – aber nur bevor die Kampfpläne offengelegt wurden.[^1]
 - (Hat keine Auswirkung auf die Sonderregeln zum Transport oder zur Siegbedingung.)
 
 ### Raumgilde
