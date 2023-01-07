@@ -52,6 +52,9 @@ Die folgenden Kapitel beschreiben, welche fraktionsspezifischen Kräfte durch ei
 - Verhindern, dass sie den Wurm reiten. Stattdessen werden sie vom Wurm gefressen.
 - Verhindern, dass sie die nächste Karte vom Sturmdeck anschauen. Es wird aber nicht verhindert, dass sich der Sturm durch diese Karte bewegt.
 - Verhindern, dass Fedaykin mehr in einem Kampf wert sind – aber nur bevor die Kampfpläne offengelegt wurden. Sie sind dann so viel wie reguläre Einheiten wert.
+- Verhindern, dass sie zusätzliche Würme in dieser Runde platzieren.[^1]
+- Verhindern, dass sie weniger Streitkräfte im Sturm verlieren.[^1]
+- Verhindern, dass sie kein Spice zahlen müssen, um ihre Streitkräfte bei voller Kraft einsetzen zu können.[^1]
 - (Hat keine Auswirkung auf die Sonderregeln zum Transport oder zur Siegbedingung.)
 
 ### Raumgilde
@@ -82,3 +85,6 @@ Ein Mal pro Spiel darf eine Fraktion eine Karama-Karte für Advanced-Kräfte ein
 - Harkonnen: Gebot
   Dazu einsetzen, um zuerst bis zu vier Karten blind von einem anderen Spieler in die eigene Hand hinzuzufügen. Danach muss die gleiche Anzahl Karten zurückgegeben werden. Die gerade genommenen Karten dürfen zurückgegeben werden. Das Handkartenlimit gilt während dieses Vorgangs nicht.
  
+ ****************
+
+ [^1]: Bedienungsanleitung der Ixians & Tleilalxu Erweiterung, S. 12
