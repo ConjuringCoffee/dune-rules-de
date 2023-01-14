@@ -74,16 +74,14 @@ Die folgenden Kapitel beschreiben, welche fraktionsspezifischen Kräfte durch ei
 
 ## Advanced-Kraft verwenden
 Ein Mal pro Spiel darf eine Fraktion eine Karama-Karte für Advanced-Kräfte einsetzen. Jede Fraktion hat eine andere Kraft. Die Karte ist außerdem auf bestimmte Phasen limitiert: 
-- Atreides: Kampf
-  Dazu einsetzen, um den gesamten Kampfplan eines Spielers zu erfahren.
-- Imperator: Wiederbelebung
-  Dazu einsetzen, um bis zu drei Einheiten oder einen Anführer wiederzubeleben.
-- Fremen: Spice-Ausbruch & Nexus
-  Dazu einsetzen, um ein Sandwurm-Token in einem beliebigen Sandgebiet zu platzieren. Dieser Sandwurm wird wie normal behandelt und löst am Ende der Phase einen Nexus aus.
-- Raumgilde: Transport & Bewegung
-  Dazu einsetzen, um den Transport eines Spielers zu verhindern.
-- Harkonnen: Gebot
-  Dazu einsetzen, um zuerst bis zu vier Karten blind von einem anderen Spieler in die eigene Hand hinzuzufügen. Danach muss die gleiche Anzahl Karten zurückgegeben werden. Die gerade genommenen Karten dürfen zurückgegeben werden. Das Handkartenlimit gilt während dieses Vorgangs nicht.
+
+| Fraktion | Phase | Beschreibung |
+| --- | ------ | ---- |
+| Atreides | Kampf | Dazu einsetzen, um den gesamten Kampfplan eines Spielers zu erfahren. |
+| Imperator | Wiederbelebung |  Dazu einsetzen, um bis zu drei Einheiten oder einen Anführer wiederzubeleben. |
+| Fremen | Spice-Ausbruch & Nexus | Dazu einsetzen, um ein Sandwurm-Token in einem beliebigen Sandgebiet zu platzieren. Dieser Sandwurm wird wie normal behandelt und löst am Ende der Phase einen Nexus aus. |
+| Raumgilde | Transport & Bewegung | Dazu einsetzen, um den Transport eines Spielers zu verhindern. |
+|Harkonnen | Gebot | Dazu einsetzen, um zuerst bis zu vier Karten blind von einem anderen Spieler in die eigene Hand hinzuzufügen. Danach muss die gleiche Anzahl Karten zurückgegeben werden. Die gerade genommenen Karten dürfen zurückgegeben werden. Das Handkartenlimit gilt während dieses Vorgangs nicht. |
  
  ****************
 
