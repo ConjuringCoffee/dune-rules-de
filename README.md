@@ -1,3 +1,6 @@
+> **Warning**
+Discontinued and no longer maintained.
+
 # dune-rules-de: German rules for the board game Dune 
 
 The board game Dune (2019) has a high complexity, which is unfortunately only increased by vaguely formulated rules.
