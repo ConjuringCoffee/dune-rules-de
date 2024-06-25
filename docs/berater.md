@@ -1,8 +1,4 @@
----
-layout: page
-title: Berater der Bene Gesserit
-permalink: /berater/
----
+# Berater der Bene Gesserit
 
 Zum Spielstart darf ein Berater („advisor“) in einem Gebiet ihrer Wahl platziert werden. Wenn sonst niemand in diesem Gebiet ist, wird der Berater zu einem Kämpfer („fighter“) gedreht.
 
