@@ -8,5 +8,5 @@ This German rules collection aims to reduce the complexity for players by re-wor
 Dune 2019 and its expansions were published by Gale Force Nine. 
 Dune is a trademark of Frank Herbert, Herbert Properties.
 
-* [Berater der Bene Gesserit](berater.md)
-* [Karama-Karte](karama.md)
+* [Berater der Bene Gesserit](docs/berater.md)
+* [Karama-Karte](docs/karama.md)
