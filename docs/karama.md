@@ -68,6 +68,37 @@ Die folgenden Kapitel beschreiben, welche fraktionsspezifischen Kräfte durch ei
 - (Verhindert nicht, dass ein Verräter offenbart werden kann oder dass das 8-Karten-Limit existiert.)
 - (Verhindert nicht, dass ein gefangen genommener Anführer eingesetzt werden kann.)
 
+### CHOAM
+
+- Verhindern, dass sie 2 Spice während der CHOAM-Wohltätigkeit für jeden Spieler erhalten. 
+Spieler erhalten CHOAM-Wohltätigkeit von der Spicebank.
+- Verhindern, dass sie für Spice eine Karte abwerfen und dass sie in der aktuellen Phase eine wertlose Karte für einen Spezialeffekt ausspielen.
+- Verhindern, dass sie mehr als drei Streitkräfte wiederbeleben. Sie müssen außerdem zwei Spice pro Streitkraft zahlen.
+- Verhindern, dass sie den Inflationsmarker während der Mentat-Pause ausspielen.
+- Verhindern, dass sie für einen Kampf für Truppen bezahltes Spice erhalten.
+- Verhindern, dass sie bei einem eingesetzten Auditor einen Audit durchführen.
+
+### Richese
+
+- Verhindern, dass sie eine Richese-Heimtücke-Karte zur Auktion stellen. (Die Karama-Karte muss dafür am Anfang der Auktionsphase gespielt werden.)
+- Verhindern, dass sie ein No-Field Token einsetzen, um Truppen zu transportieren.
+- Verhindern, dass sie eine Karte aus ihrer Hand verkaufen.
+
+### Ixianer
+
+- Verhindern, dass sie zu Beginn der Auktionsphase die Heimtücken-Karten ansehen und eine zurücklegen.
+- Verhindern, dass Cyborgs sich 2 Felder bewegen.
+- Verhindern, dass Cyborgs im Kampf als 2 Streitkräfte zählen.
+- Verhindern, dass sie im Kampf Verluste von Cyborgs durch Suboids ausgleichen.
+- Verhindern, dass die verborgene mobile Festung sich bewegt und Spice einsammelt.
+- Verhindern, dass sie während der Auktionsphase eine Karte durch eine ihrer Handkarten ersetzen.
+
+### Tleilaxu
+
+- Verhindern, dass sie während der Mentat-Pause Gesichtstänzer ersetzen.
+- Verhindern, dass sie mehr als drei Streitkräfte wiederbeleben. Sie müssen außerdem zwei Spice pro Streitkraft bezahlen, sie können Anführer nicht verfrüht wiederbeleben und Spice für Wiederbelebungen wird an die Spicebank gezahlt.
+- Verhindern, dass sie den Anführer eines Mitspielers als Ghola wiederbeleben.
+
 ## Advanced-Kraft verwenden
 Ein Mal pro Spiel darf eine Fraktion eine Karama-Karte für Advanced-Kräfte einsetzen. Jede Fraktion hat eine andere Kraft. Die Karte ist außerdem auf bestimmte Phasen limitiert: 
 
@@ -78,6 +109,10 @@ Ein Mal pro Spiel darf eine Fraktion eine Karama-Karte für Advanced-Kräfte ein
 | Fremen | Spice-Ausbruch & Nexus | Dazu einsetzen, um ein Sandwurm-Token in einem beliebigen Sandgebiet zu platzieren. Dieser Sandwurm wird wie normal behandelt und löst am Ende der Phase einen Nexus aus. |
 | Raumgilde | Transport & Bewegung | Dazu einsetzen, um den Transport eines Spielers zu verhindern. |
 |Harkonnen | Gebot | Dazu einsetzen, um zuerst bis zu vier Karten blind von einem anderen Spieler in die eigene Hand hinzuzufügen. Danach muss die gleiche Anzahl Karten zurückgegeben werden. Die gerade genommenen Karten dürfen zurückgegeben werden. Das Handkartenlimit gilt während dieses Vorgangs nicht. |
+| CHOAM | Jederzeit | Dazu einsetzen, um beliebig viele Heimtücke-Karten abzuwerfen und pro Karte drei Spice zu erhalten. |
+| Richese | Jederzeit | Dazu einsetzen, um eine beliebige Richese-Heimtücke-Karte verborgen für 3 Spice zu kaufen.|
+| Ixianer | Transport & Bewegung | Dazu einsetzen, um während des eigenen Zuges die verborgene mobile Festung bis zu 2 Felder zu bewegen. |
+| Tleilaxu | Wiederbelebung | Dazu einsetzen, um einen anderen Spieler in der aktuellen Phase daran zu hindern, Truppen und Anführer wiederzubeleben. |
  
  ****************
 
